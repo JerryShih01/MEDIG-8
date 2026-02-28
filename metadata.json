@@ -1,0 +1,5 @@
+{
+  "name": "MediTrend IG Generator",
+  "description": "Searches for recent medical and pharmaceutical updates within a date range and generates Instagram-ready content with cute visuals and summaries.",
+  "requestFramePermissions": []
+}
